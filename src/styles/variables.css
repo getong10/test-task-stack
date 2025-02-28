@@ -1,0 +1,20 @@
+:root {
+  /* Text */
+  --color-primary-text: #333333;
+  --font-family-main: 'Montserrat', sans-serif;
+  --font-size-base: 16px;
+  
+  /* Buttons */
+  --color-confirm-button-background: #4a90e2;
+  --color-danger-button-background: #ff3c3c;
+  --color-disabled-button-background: #e4f1fe;
+  --color-primary-button-text: #ffffff;
+  --color-disabled-button-text: #3e3e3e;
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+} 
